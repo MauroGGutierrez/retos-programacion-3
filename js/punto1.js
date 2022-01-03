@@ -20,5 +20,5 @@ while (j < listadoNotas.length) {
 }
 
 alert(
-  `La cantidad de mayor a 7 es: ${cantMayor} y la cantidad de menores es: ${cantMenor}`
+  `La cantidad de notas mayores a 7 es: ${cantMayor} y la cantidad de menores es de: ${cantMenor}`
 );
